@@ -65,28 +65,29 @@ npm start
 
 - [🎨 To get started, click here 🎨](https://cranky-goldstine-9fb226.netlify.app/)
   <br/>
-  On clicking, your screen will look like this
-  ![Anonymous](public/startscreen.png)
 
 ---
 
-##🧑‍🎨 How to set up a new canvas for drawing?
+## 🧑‍🎨 On clicking, your screen will look like this
 
-Click Start Coloring.
+![Anonymous](public/startscreen.png)
+
+---
+
+## 🧑‍🎨 Next, click on "Start Coloring ".
+
 ![Anonymous](public/canvass.png)
 
 ---
 
-## 🧑‍🎨 How to select colors for painting?
+## 🧑‍🎨 Select colors from the drop down menu.
 
-Select colors from the drop down menu.
 ![Anonymous](public/options.png)
 
 ---
 
-## 🧑‍🎨 How to paint or draw?
+## 🧑‍🎨 Hover your mouse over the pixelated canvas and click to fill in your color.
 
-Hover your mouse over the pixelated canvas and click to fill in your color.
 ![Anonymous](public/final.png)
 
 ---
