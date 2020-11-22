@@ -27,7 +27,7 @@ button {
   align-self: flex-start;
 }
 select {
-  align-self: flex-end;
+  justify-self: flex-end;
 }
 td {
   height: 50px;
