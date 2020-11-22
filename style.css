@@ -34,6 +34,7 @@ select {
   height: 50px;
   font-size: medium;
   align-self: flex-end;
+  justify-self: center;
 }
 td {
   height: 50px;
