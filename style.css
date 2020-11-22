@@ -4,6 +4,7 @@ html {
 }
 .title {
   font-family: "Courier New", Courier, monospace;
+  font-size: x-large;
   color: #f9c74f;
 }
 .subtitle {
