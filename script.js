@@ -18,9 +18,19 @@ function makeRow() {
   }
   table.appendChild(row);
 }
+function removeElement(elementId) {
+  table.parentNode.removeChild(row);
+}
+
 function makeMultipleRows() {
-  for (let i = 0; i < 10; i++) {
-    makeRow();
+  const flag = false;
+  if (!flag) {
+    for (let i = 0; i < 10; i++) {
+      makeRow();
+      flag = true;
+    }
+  } else {
+    removeElement();
   }
 }
 
@@ -46,4 +56,9 @@ function addMouseOver() {
 
 function removeMouseOver() {
   table.removeEventListener("mouseover", colorize);
+}
+function removeElement(elementId) {
+  // Removes an element from the document
+  var element = document.getElementById(elementId);
+  element.parentNode.removeChild(element);
 }
