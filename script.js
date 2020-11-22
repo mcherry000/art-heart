@@ -23,18 +23,14 @@ function removeElement(elementId) {
 }
 
 function makeMultipleRows() {
-  let flag = false;
-  console.log("flag->", flag);
-  if (flag) {
-    flag = false;
-    console.log("flag=>", flag);
+  if (table.children.length) {
+    console.log("table.children.length=>", table.children.length);
     removeElement();
   } else {
     for (let i = 0; i < 10; i++) {
       makeRow();
+      console.log("table.children.length", table.children.length);
     }
-    flag = true;
-    console.log("flag", flag);
   }
 }
 
