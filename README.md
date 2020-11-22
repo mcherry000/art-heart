@@ -15,7 +15,8 @@ Build a small editor for making 8-bit art! You should be able to re-create chara
 
 ## 🧚‍♀️ How to get started?
 
-- [Click here..](https://cranky-goldstine-9fb226.netlify.app/)
+- [To get Started, click here!](https://cranky-goldstine-9fb226.netlify.app/)
+  <br/>
   On clicking, your screen will look like this
   ![Anonymous](public/startscreen.png)
 
