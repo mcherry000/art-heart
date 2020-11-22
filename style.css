@@ -17,7 +17,7 @@ body {
 }
 .navv {
   display: flex;
-
+  height: 50px;
   flex: 1;
   /* height: 100px; */
   /* align-items: stretch; */
@@ -31,8 +31,7 @@ button {
   align-self: flex-start;
 }
 select {
-  height: auto;
-  /* height: 50px; */
+  height: 50px;
   font-size: medium;
   align-self: flex-end;
 }
