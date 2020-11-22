@@ -21,7 +21,7 @@ body {
   flex: 1;
   /* height: 100px; */
   /* align-items: stretch; */
-  /* border: solid #f94144 20px; */
+  border: solid #43aa8b 20px;
   justify-content: space-between;
 }
 button {
