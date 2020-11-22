@@ -16,6 +16,7 @@ body {
 nav {
   display: flex;
   justify-content: space-around;
+  justify-items: space-around;
   border: solid #f94144 20px;
 }
 button {
