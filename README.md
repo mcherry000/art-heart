@@ -13,7 +13,7 @@ Build a small editor for making 8-bit art! You should be able to re-create chara
 
 ---
 
-## 📺 Project Presentation:
+## 🎨 Project Presentation:
 
 [ Watch the Video presentation](https://youtu.be/D1PXq5mb8NY)
 
@@ -29,7 +29,7 @@ npm start
 
 ---
 
-## 💻 Tech Stack:
+## 🎨 Tech Stack:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />][html]
 
@@ -61,7 +61,7 @@ npm start
 
 ---
 
-## 🖌🧑‍🎨 🎨 How to get started?
+## 🧑‍🎨 How to get started?
 
 - [🎨 To get started, click here 🎨](https://cranky-goldstine-9fb226.netlify.app/)
   <br/>
