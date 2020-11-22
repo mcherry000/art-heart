@@ -25,7 +25,7 @@ Build a small editor for making 8-bit art! You should be able to re-create chara
 ## How to set up a new canvas for drawing?
 
 Click Start Coloring.
-![Anonymous](public/canvas.png)
+![Anonymous](public/canvass.png)
 
 ---
 
