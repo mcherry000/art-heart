@@ -23,7 +23,8 @@ function removeElement(elementId) {
 }
 
 function makeMultipleRows() {
-  const flag = false;
+  let flag = false;
+  console.log("flag->", flag);
   if (flag) {
     flag = false;
     console.log("flag", flag);
