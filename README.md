@@ -7,7 +7,7 @@
 
 ---
 
-## ⛈ Prompt
+## 🎨 Prompt
 
 Build a small editor for making 8-bit art! You should be able to re-create characters from all your favorite classic video games!
 
@@ -22,34 +22,34 @@ Build a small editor for making 8-bit art! You should be able to re-create chara
 
 ---
 
-## How to set up a new canvas for drawing?
+##🧑‍🎨 How to set up a new canvas for drawing?
 
 Click Start Coloring.
 ![Anonymous](public/canvass.png)
 
 ---
 
-## How to select colors for painting?
+## 🧑‍🎨How to select colors for painting?
 
 Select colors from the drop down menu.
 ![Anonymous](public/options.png)
 
 ---
 
-## How to paint or draw?
+## 🧑‍🎨How to paint or draw?
 
 Hover your mouse over the pixelated canvas and click to fill in your color.
 ![Anonymous](public/final.png)
 
 ---
 
-## 🖼 Project Presentation:
+## 📺 Project Presentation:
 
-[ 📺 Watch the Video presentation](https://youtu.be/D1PXq5mb8NY)
+[ Watch the Video presentation](https://youtu.be/D1PXq5mb8NY)
 
 ---
 
-## 👾 How to Use this Repository?
+## 🎨 How to Use this Repository?
 
 ```shell
 git clone https://github.com/mcherry000/pixelated.git
@@ -87,9 +87,13 @@ npm start
 [html]: http://www.w3.org/html/logo/
 [github]: https://github.com/logos
 
+---
+
 ## 🧚‍♀️ Created by👩‍💻👩‍💻
 
 ![Team](public/slides/)
 | Engineer | LinkedIn Profile | GitHub Profile |
 | ----------------- | ------------------------------------------------ | ------------------------------- |
 | ☀️ Manika Arora | https://www.linkedin.com/in/manika-a-11692716b/| https://github.com/mcherry000 |
+
+---
