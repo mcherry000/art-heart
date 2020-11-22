@@ -13,7 +13,7 @@ body {
   flex-direction: column;
   align-items: center;
 }
-nav {
+.navv {
   display: flex;
   justify-content: space-around;
   justify-items: space-around;
