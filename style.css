@@ -3,6 +3,7 @@ html {
   color: white;
 }
 .title {
+  font-family: "Courier New", Courier, monospace;
   color: #f9c74f;
 }
 .subtitle {
@@ -28,7 +29,6 @@ button {
   align-self: flex-start;
 }
 select {
-  border-radius: 80;
   height: 50px;
   font-size: medium;
   align-self: flex-end;
