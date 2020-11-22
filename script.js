@@ -20,7 +20,6 @@ function makeRow() {
 }
 
 function removeElement() {
-  // table.parentNode.removeChild();
   while (table.firstChild) {
     table.removeChild(table.lastChild);
   }
@@ -35,6 +34,7 @@ function makeMultipleRows() {
       makeRow();
       console.log("table.children.length", table.children.length);
     }
+    button.innerText = "Reset";
   }
 }
 
