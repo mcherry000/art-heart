@@ -24,13 +24,13 @@ function removeElement(elementId) {
 
 function makeMultipleRows() {
   const flag = false;
-  if (!flag) {
+  if (flag) {
+    removeElement();
+    flag = false;
+  } else {
     for (let i = 0; i < 10; i++) {
       makeRow();
-      flag = true;
     }
-  } else {
-    removeElement();
   }
 }
 
