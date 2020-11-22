@@ -1,9 +1,9 @@
-# 🎨 E-Colorize 🎨
+# 🎨 Art Heart 🎨
 
 - [Link to the Deployed App](https://cranky-goldstine-9fb226.netlify.app/)
   <br/>
-  E-Colorize is a Progressive Web App (PWA) built to provide a creative playground for users to paint, relax and unwind.
-  ![Ecolorize](public/colorize.png)
+  Art Heart is a Progressive Web App (PWA) built to provide a creative playground for users to paint, relax and unwind.
+  ![Ecolorize](public/art.png)
 
 ---
 
@@ -15,7 +15,7 @@ Build a small editor for making 8-bit art! You should be able to re-create chara
 
 ## 🎨 Project Presentation:
 
-[ Watch the Video presentation](https://youtu.be/D1PXq5mb8NY)
+[ Watch the Video](https://youtu.be/D1PXq5mb8NY)
 
 ---
 
@@ -94,9 +94,8 @@ npm start
 
 ## 👩‍ Created by
 
-![Anonymous](public/colorize.png)
-| Engineer | LinkedIn Profile | GitHub Profile |
-| ----------------- | ------------------------------------------------ | ------------------------------- |
-| ☀️ Manika Arora | https://www.linkedin.com/in/manika-a-11692716b/| https://github.com/mcherry000 |
+| Engineer        | LinkedIn Profile                                | GitHub Profile                |
+| --------------- | ----------------------------------------------- | ----------------------------- |
+| ☀️ Manika Arora | https://www.linkedin.com/in/manika-a-11692716b/ | https://github.com/mcherry000 |
 
 ---
