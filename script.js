@@ -22,7 +22,7 @@ function makeRow() {
 function removeElement() {
   // table.parentNode.removeChild();
   while (table.firstChild) {
-    myNode.removeChild(table.lastChild);
+    table.removeChild(table.lastChild);
   }
 }
 
