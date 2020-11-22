@@ -61,7 +61,7 @@ npm start
 
 ---
 
-## 🧚‍♀️ How to get started?
+## 🖌🧑‍🎨 🎨 How to get started?
 
 - [🎨 To get started, click here 🎨](https://cranky-goldstine-9fb226.netlify.app/)
   <br/>
@@ -77,14 +77,14 @@ Click Start Coloring.
 
 ---
 
-## 🧑‍🎨How to select colors for painting?
+## 🧑‍🎨 How to select colors for painting?
 
 Select colors from the drop down menu.
 ![Anonymous](public/options.png)
 
 ---
 
-## 🧑‍🎨How to paint or draw?
+## 🧑‍🎨 How to paint or draw?
 
 Hover your mouse over the pixelated canvas and click to fill in your color.
 ![Anonymous](public/final.png)
