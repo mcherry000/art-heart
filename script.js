@@ -2,7 +2,7 @@ const table = document.getElementsByTagName("table")[0];
 const select = document.getElementsByTagName("select")[0];
 const button = document.getElementsByTagName("button")[0];
 
-let chosenColor = "red";
+let chosenColor = "maize";
 
 button.addEventListener("click", makeMultipleRows);
 table.addEventListener("click", colorize);
