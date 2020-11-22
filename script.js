@@ -18,8 +18,12 @@ function makeRow() {
   }
   table.appendChild(row);
 }
-function removeElement(elementId) {
-  table.parentNode.removeChild(row);
+
+function removeElement(table) {
+  table.parentNode.removeChild();
+  // while (myNode.firstChild) {
+  //   myNode.removeChild(myNode.lastChild);
+  // }
 }
 
 function makeMultipleRows() {
