@@ -16,6 +16,7 @@ body {
 
 button {
   height: 50px;
+  width: auto;
   background-color: #43aa8b;
 }
 td {
