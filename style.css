@@ -17,6 +17,7 @@ body {
 }
 .navv {
   display: flex;
+  background-color: #f94144;
   flex: 1;
   /* height: 100px; */
   /* align-items: stretch; */
