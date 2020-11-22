@@ -17,11 +17,11 @@ body {
 }
 .navv {
   display: flex;
-  background-color: #f94144;
+
   flex: 1;
   /* height: 100px; */
   /* align-items: stretch; */
-  border: solid #43aa8b 6px;
+  border: solid #f94144 6px;
   justify-content: space-between;
 }
 button {
