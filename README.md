@@ -1,10 +1,7 @@
 # 🎨 E-Colorize 🎨
 
-![Ecolorize](public/colorize.png)
-
-### **ELC Hack for Pink Hackathon Submission**
-
 E-Colorize is a Progressive Web App (PWA) built to provide a creative playground for users to paint, relax and unwind.
+![Ecolorize](public/colorize.png)
 
 ---
 
