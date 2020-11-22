@@ -16,7 +16,7 @@ body {
 .navv {
   display: flex;
   /* justify-content: space-around; */
-  justify-items: space-around;
+  justify-items: flex-start;
   border: solid #f94144 20px;
 }
 button {
