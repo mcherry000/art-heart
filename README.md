@@ -39,7 +39,7 @@ Select colors from the drop down menu.
 ## How to paint or draw?
 
 Hover your mouse over the pixelated canvas and click to fill in your color.
-![Anonymous](public/colored-final.png)
+![Anonymous](public/final.png)
 
 ---
 
