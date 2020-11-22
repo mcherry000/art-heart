@@ -14,7 +14,7 @@ body {
   align-items: center;
 }
 nav {
-  display: inline-flex;
+  display: flex;
   justify-content: space-around;
   border: solid red 20px;
 }
