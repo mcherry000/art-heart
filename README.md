@@ -1,1 +1,99 @@
-# pixelated
+# 🎨 E-Colorize 🎨
+
+![Ecolorize](public/colorize.png)
+
+### **ELC Hack for Pink Hackathon Submission**
+
+E-Colorize is a Progressive Web App (PWA) built to provide a creative playground for users to paint, relax and unwind.
+
+---
+
+## ⛈ Prompt
+
+Build a small editor for making 8-bit art! You should be able to re-create characters from all your favorite classic video games!
+
+---
+
+## 🧚‍♀️ How to get started?
+
+- [Click here..](https://cranky-goldstine-9fb226.netlify.app/)
+  On clicking, your screen will look like this
+  ![Anonymous](public/startscreen.png)
+
+---
+
+## How to set up a new canvas for drawing?
+
+Click Start Coloring.
+![Anonymous](public/canvas.png)
+
+---
+
+## How to select colors for painting?
+
+Select colors from the drop down menu.
+![Anonymous](public/options.png)
+
+---
+
+## How to paint or draw?
+
+Hover your mouse over the pixelated canvas and click to fill in your color.
+![Anonymous](public/options.png)
+
+---
+
+## 🖼 Project Presentation:
+
+[ 📺 Watch the Video presentation](https://youtu.be/D1PXq5mb8NY)
+
+---
+
+## 👾 How to Use this Repository?
+
+```shell
+git clone https://github.com/mcherry000/pixelated.git
+npm install
+npm start
+```
+
+---
+
+## 💻 Tech Stack:
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />][html]
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/css3.svg" />][css]
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/javascript.svg" />][js]
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/netlify.svg" />][netlify]
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/github.svg" />][github]
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/git.svg" />][git]
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/canva.svg" />][canva]
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/npm.svg" />][npm]
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/node-dot-js.svg" />][node]
+
+[html]: http://www.w3.org/html/logo/
+[css]: http://www.w3.org/html/logo/
+[canva]: https://www.canva.com/
+[npm]: https://github.com/npm/logos
+[node]: https://nodejs.org/en/about/resources/
+[netlify]: https://www.netlify.com/press/
+[js]: https://github.com/voodootikigod/logo.js
+[html]: http://www.w3.org/html/logo/
+[github]: https://github.com/logos
+
+## <br/>
+
+## 🧚‍♀️ Created by👩‍💻👩‍💻
+
+![Team](public/slides/)
+| Engineer | LinkedIn Profile | GitHub Profile |
+| ----------------- | ------------------------------------------------ | ------------------------------- |
+| ☀️ Manika Arora | https://www.linkedin.com/in/manika-a-11692716b/| https://github.com/mcherry000 |
