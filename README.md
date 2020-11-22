@@ -59,9 +59,11 @@ npm start
 
 ## <br/>
 
+---
+
 ## 🧚‍♀️ How to get started?
 
-- [To get Started, click here!](https://cranky-goldstine-9fb226.netlify.app/)
+- [🎨 To get started, click here 🎨](https://cranky-goldstine-9fb226.netlify.app/)
   <br/>
   On clicking, your screen will look like this
   ![Anonymous](public/startscreen.png)
