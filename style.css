@@ -31,10 +31,10 @@ button {
   align-self: flex-start;
 }
 select {
-  height: 50px;
+  height: auto;
+  /* height: 50px; */
   font-size: medium;
   align-self: flex-end;
-  /* justify-self: flex-end; */
 }
 td {
   height: 50px;

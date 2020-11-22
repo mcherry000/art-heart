@@ -70,19 +70,19 @@ npm start
 
 ## 🧑‍🎨 On clicking, your screen will look like this
 
-![Anonymous](public/startscreen.png)
+![Anonymous](public/tostart.png)
 
 ---
 
-## 🧑‍🎨 Next, click on "Start Coloring ".
+## 🧑‍🎨 Next, click on "Start".
 
-![Anonymous](public/canvass.png)
+![Anonymous](public/tocanvas.png)
 
 ---
 
 ## 🧑‍🎨 Select colors from the drop down menu.
 
-![Anonymous](public/options.png)
+![Anonymous](public/toselect.png)
 
 ---
 
