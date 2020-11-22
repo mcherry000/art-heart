@@ -14,7 +14,8 @@ body {
   align-items: center;
 }
 .navv {
-  display: flex;
+  display: flexbox;
+  flex: 1;
   /* align-items: stretch; */
   border: solid #f94144 20px;
   width: 700px;
@@ -28,6 +29,7 @@ button {
 }
 select {
   justify-self: flex-end;
+  justify-content: flex-end;
 }
 td {
   height: 50px;
