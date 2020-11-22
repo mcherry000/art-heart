@@ -27,7 +27,7 @@ function makeMultipleRows() {
   console.log("flag->", flag);
   if (flag) {
     flag = false;
-    console.log("flag", flag);
+    console.log("flag=>", flag);
     removeElement();
   } else {
     for (let i = 0; i < 10; i++) {
