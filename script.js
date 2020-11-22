@@ -26,12 +26,14 @@ function makeMultipleRows() {
   const flag = false;
   if (flag) {
     flag = false;
+    console.log("flag", flag);
     removeElement();
   } else {
     for (let i = 0; i < 10; i++) {
       makeRow();
     }
     flag = true;
+    console.log("flag", flag);
   }
 }
 
