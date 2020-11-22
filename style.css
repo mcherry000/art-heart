@@ -13,7 +13,9 @@ body {
   flex-direction: column;
   align-items: center;
 }
-
+nav {
+  display: inline-flex;
+}
 button {
   height: 50px;
   width: auto;
