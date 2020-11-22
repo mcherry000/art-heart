@@ -12,7 +12,7 @@ select.addEventListener("change", pickColor);
 
 function makeRow() {
   const row = document.createElement("tr");
-  for (let i = 0; i < 50; i++) {
+  for (let i = 0; i < 70; i++) {
     const td = document.createElement("td");
     row.appendChild(td);
   }

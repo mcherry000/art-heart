@@ -5,16 +5,17 @@ html {
 .title {
   color: #f9c74f;
 }
+.subtitle {
+  color: #43aa8b;
+}
 body {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-body {
-  display: flex;
 
-  flex-direction: column;
-  align-items: center;
+button {
+  background-color: #43aa8b;
 }
 td {
   height: 50px;
