@@ -28,6 +28,7 @@ button {
   align-self: flex-start;
 }
 select {
+  border-radius: 80;
   height: 50px;
   font-size: medium;
   align-self: flex-end;
