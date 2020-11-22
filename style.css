@@ -16,7 +16,7 @@ body {
 nav {
   display: flex;
   justify-content: space-around;
-  border: solid red 20px;
+  border: solid #f94144 20px;
 }
 button {
   height: 50px;
