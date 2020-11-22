@@ -19,11 +19,11 @@ function makeRow() {
   table.appendChild(row);
 }
 
-function removeElement(table) {
-  table.parentNode.removeChild();
-  // while (myNode.firstChild) {
-  //   myNode.removeChild(myNode.lastChild);
-  // }
+function removeElement() {
+  // table.parentNode.removeChild();
+  while (table.firstChild) {
+    myNode.removeChild(table.lastChild);
+  }
 }
 
 function makeMultipleRows() {
