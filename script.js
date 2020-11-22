@@ -29,6 +29,7 @@ function makeMultipleRows() {
   if (table.children.length) {
     console.log("table.children.length=>", table.children.length);
     removeElement();
+    button.innerText = "Start";
   } else {
     for (let i = 0; i < 10; i++) {
       makeRow();
