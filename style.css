@@ -17,6 +17,7 @@ body {
   display: flex;
   /* align-items: stretch; */
   border: solid #f94144 20px;
+  width: 200px;
 }
 button {
   height: 50px;
