@@ -3,7 +3,7 @@
 - [Link to the Deployed App](https://cranky-goldstine-9fb226.netlify.app/)
   <br/>
   Art Heart is a Progressive Web App (PWA) built to provide a creative playground for users to paint, relax and unwind.
-  ![Ecolorize](public/art.png)
+  <!-- ![Ecolorize](public/art.png) -->
 
 ---
 
