@@ -13,36 +13,6 @@ Build a small editor for making 8-bit art! You should be able to re-create chara
 
 ---
 
-## 🧚‍♀️ How to get started?
-
-- [To get Started, click here!](https://cranky-goldstine-9fb226.netlify.app/)
-  <br/>
-  On clicking, your screen will look like this
-  ![Anonymous](public/startscreen.png)
-
----
-
-##🧑‍🎨 How to set up a new canvas for drawing?
-
-Click Start Coloring.
-![Anonymous](public/canvass.png)
-
----
-
-## 🧑‍🎨How to select colors for painting?
-
-Select colors from the drop down menu.
-![Anonymous](public/options.png)
-
----
-
-## 🧑‍🎨How to paint or draw?
-
-Hover your mouse over the pixelated canvas and click to fill in your color.
-![Anonymous](public/final.png)
-
----
-
 ## 📺 Project Presentation:
 
 [ Watch the Video presentation](https://youtu.be/D1PXq5mb8NY)
@@ -87,11 +57,41 @@ npm start
 [html]: http://www.w3.org/html/logo/
 [github]: https://github.com/logos
 
+## <br/>
+
+## 🧚‍♀️ How to get started?
+
+- [To get Started, click here!](https://cranky-goldstine-9fb226.netlify.app/)
+  <br/>
+  On clicking, your screen will look like this
+  ![Anonymous](public/startscreen.png)
+
 ---
 
-## 🧚‍♀️ Created by👩‍💻👩‍💻
+##🧑‍🎨 How to set up a new canvas for drawing?
 
-![Team](public/slides/)
+Click Start Coloring.
+![Anonymous](public/canvass.png)
+
+---
+
+## 🧑‍🎨How to select colors for painting?
+
+Select colors from the drop down menu.
+![Anonymous](public/options.png)
+
+---
+
+## 🧑‍🎨How to paint or draw?
+
+Hover your mouse over the pixelated canvas and click to fill in your color.
+![Anonymous](public/final.png)
+
+---
+
+## 👩‍ Created by
+
+![Anonymous](public/colorize.png)
 | Engineer | LinkedIn Profile | GitHub Profile |
 | ----------------- | ------------------------------------------------ | ------------------------------- |
 | ☀️ Manika Arora | https://www.linkedin.com/in/manika-a-11692716b/| https://github.com/mcherry000 |
