@@ -1,6 +1,7 @@
 # 🎨 E-Colorize 🎨
 
 - [Link to the Deployed App](https://cranky-goldstine-9fb226.netlify.app/)
+  <br/>
   E-Colorize is a Progressive Web App (PWA) built to provide a creative playground for users to paint, relax and unwind.
   ![Ecolorize](public/colorize.png)
 
@@ -84,8 +85,6 @@ npm start
 [js]: https://github.com/voodootikigod/logo.js
 [html]: http://www.w3.org/html/logo/
 [github]: https://github.com/logos
-
-## <br/>
 
 ## 🧚‍♀️ Created by👩‍💻👩‍💻
 
