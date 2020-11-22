@@ -88,7 +88,7 @@ npm start
 
 ## 🧑‍🎨 Hover your mouse over the pixelated canvas and click to fill in your color.
 
-![Anonymous](public/final.png)
+![Anonymous](public/finale.png)
 
 ---
 
