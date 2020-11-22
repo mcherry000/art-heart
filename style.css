@@ -14,7 +14,7 @@ body {
   align-items: center;
 }
 .navv {
-  display: flexbox;
+  display: flex;
   flex: 1;
   height: 50px;
   width: auto;
