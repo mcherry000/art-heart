@@ -18,20 +18,18 @@ body {
   flex: 1;
   /* height: 100px; */
   /* align-items: stretch; */
-  border: solid #f94144 20px;
+  /* border: solid #f94144 20px; */
   width: 700px;
   justify-content: space-between;
 }
 button {
   height: 50px;
-  width: auto;
   background-color: #43aa8b;
   font-size: medium;
   align-self: flex-start;
 }
 select {
   height: 50px;
-  width: auto;
   font-size: medium;
   align-self: flex-end;
   /* justify-self: flex-end; */
