@@ -1,6 +1,6 @@
 # 🎨 Art Heart 🎨
 
-- [Link to the Deployed App](https://cranky-goldstine-9fb226.netlify.app/)
+- [Link to the Deployed App](https://art-heart.netlify.app/)
 
 ## Preferred Browser - Chrome
 
@@ -66,7 +66,7 @@ npm start
 
 ## 🧑‍🎨 How to get started?
 
-- [🎨 To get started, click here 🎨](https://cranky-goldstine-9fb226.netlify.app/)
+- [🎨 To get started, click here 🎨](https://art-heart.netlify.app/)
   <br/>
 
 ---
