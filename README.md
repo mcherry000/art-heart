@@ -2,11 +2,12 @@
 
 - [Link to the Deployed App](https://art-heart.netlify.app/)
 
-## Preferred Browser - Chrome
+---
+
+## Preferred browser - Google Chrome
 
   <br/>
-  Art Heart is a Progressive Web App (PWA) built to provide a creative playground for users to paint, relax and unwind.
-  <!-- ![Ecolorize](public/art.png) -->
+  Art Heart is a Web App built to provide a creative playground for users to paint, relax and unwind.
 
 ---
 
